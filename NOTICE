@@ -1,0 +1,13 @@
+RM Energy Hit Simulator
+
+This repository publishes a sanitized source snapshot, not the private project's
+Git history. Internal documents and the reference auto-aim implementation are
+not included. README.md is a newly written public startup guide.
+
+Project origin: https://github.com/Myshrimp/RM_Labeling_Tool
+UnityGameFramework: https://github.com/EllanJiang/UnityGameFramework
+EzySlice: see Assets/Tools/EzySlice/LICENSE.
+Other bundled assets retain their original license and attribution notices.
+In particular, restrictions in the Synty course asset license continue to apply.
+No blanket relicensing of third-party code, models, textures, fonts or audio is
+made by publishing this repository.
